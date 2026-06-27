@@ -1,4 +1,4 @@
-# CV_Project
+# CV_ImageProcessing
 
 A collection of Python scripts and image-processing functions for an image-processing assignment (PS1). The repository contains implementations of basic image manipulation operations (channel extraction and swapping, copy/paste regions, statistics, normalization, shifting, difference, noise addition) and utilities to build and visualize hybrid images.
 
